@@ -1,0 +1,32 @@
+h1#kodluyoruz{
+    color: coral;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 50px;
+    font-size: 50px;
+}
+body{
+    background-color: rgb(100, 99, 99);
+}
+h2#giris-name{
+    color: coral;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 50px 10px;
+    font-size: 30px;
+}
+#zaman{
+    color: coral;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 50px 10px;
+    font-size: 50px;
+    
+}
+#lastSentence{
+    color: coral;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 50px 10px;
+    font-size: 50px;
+}
